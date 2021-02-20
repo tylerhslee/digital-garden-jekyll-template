@@ -8,7 +8,7 @@ I think what makes life compelling, and therefore worth living, is the fact that
 
 I imagine this system would be modular and based on some very basic mathematic factors. Below is a growing list of such systems. 
 
-* Character Physique
+* [[Character Physique]]
 
 * Chatacter Intelligence
 

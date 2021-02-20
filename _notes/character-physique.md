@@ -22,4 +22,4 @@ Game mechanics
 
   * Agility
 
-  * [[character-toughness.md|Toughness]]
+  * [[Character toughness|Toughness]]
